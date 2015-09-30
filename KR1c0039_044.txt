@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 六家詩名物疏
-#+DATE: 2015-09-23 09:36:54
-#+PROPERTY: JUAN 44
+#+DATE: 2015-08-24 22:05:51.952443
+#+PROPERTY: ID KR1c0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十一
 <pb:KR1c0039_WYG_044-1a>¶
 欽定四庫全書¶
 　六家詩名物疏卷四十一　明　馮復京　撰¶
@@ -326,4 +328,3 @@
 致醋賔兄弟交錯其酬無算爵¶
 　¶
 　六家詩名物疏卷四十一¶
-
